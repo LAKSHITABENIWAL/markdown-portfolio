@@ -1,5 +1,4 @@
-PLAYING
-KDRAMA
--SERIES
- -GOOSE BUMPS
--FOOD
+- Food
+  - spice
+- Song
+- kdama
